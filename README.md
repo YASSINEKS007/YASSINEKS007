@@ -10,7 +10,7 @@ I am an **Artificial Intelligence and Software Engineering** student with a stro
 
 
 🔭 I’m currently working on:
-- **Media Summarize Platform using NLP** 📰
+- **Media Summarization Platform using NLP** 📰
 
 🌱 I’m exploring:
 - Advanced AI techniques (NLP, Machine Learning)
