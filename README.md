@@ -81,7 +81,7 @@ I am an **Artificial Intelligence and Software Engineering** student with a stro
 ### 📫 How to reach me
 
 - **LinkedIn**: [Yassine Khalss](https://www.linkedin.com/in/yassine-khalss-502b73316/)
-- **Email**: yassinekh007007@gmail.com
+- **Email**: khalss.yassine1@gmail.com
 - **Website**: [My Portfolio](https://khalss-yassine-portfolio-website.vercel.app/)
 
 
