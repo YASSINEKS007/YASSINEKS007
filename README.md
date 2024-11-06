@@ -10,13 +10,14 @@ I am an **Artificial Intelligence and Software Engineering** student with a stro
 
 
 🔭 I’m currently working on:
-- **Media Summarization Platform using NLP** 📰
+- **Text Summarization Platform using NLP** 📰
 
-🌱 I’m exploring:
-- Advanced AI techniques (NLP, Machine Learning)
-- Distributed Systems with **Docker** & **Kubernetes**
+🌱 **I’m currently exploring:**
+- Advanced AI techniques, including Natural Language Processing and Deep Learning
+- Microservices architecture using Spring Boot, Docker, and Kubernetes
 
-💼 Looking for opportunities in **Software Engineering** and **AI development**.
+💼 **Open to opportunities in** _Software Engineering_ **and** _AI Development_.
+
 
 ---
 
