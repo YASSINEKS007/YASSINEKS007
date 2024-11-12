@@ -6,15 +6,16 @@
 
 ### 🚀 About Me
 
-I am an **Artificial Intelligence and Software Engineering** student with a strong passion for **Artificial Intelligence and Full-Stack Development**. I possess a solid foundation in backend technologies, including **Spring Boot** and **Django**, and have frontend expertise in **React** and **Angular**. My goal is to build seamless and scalable applications. Additionally, I leverage **AI** techniques such as **Machine Learning**, **Prompt Engineering**, and **AI Agents** to develop intelligent solutions that address real-world challenges.
+I am an **Software Engineering and Artificial Intelligence** student with a strong passion for **Artificial Intelligence and Full-Stack Development**. I possess a solid foundation in backend technologies, including **Spring Boot** and **Django**, and have frontend expertise in **React** and **Angular**. My goal is to build seamless and scalable applications. Additionally, I leverage **AI** techniques such as **Machine Learning**, **Prompt Engineering**, and **AI Agents** to develop intelligent solutions that address real-world challenges.
 
 
 🔭 I’m currently working on:
 - **Text Summarization Platform using NLP** 📰
 
 🌱 **I’m currently exploring:**
-- Advanced AI techniques, including Natural Language Processing and Deep Learning
 - Microservices architecture using Spring Boot, Docker, and Kubernetes
+- Advanced AI techniques, including Natural Language Processing and Deep Learning
+
 
 💼 **Open to opportunities in** _Software Engineering_ **and** _AI Development_.
 
