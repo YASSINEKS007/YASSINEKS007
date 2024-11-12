@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I am an **Software Engineering and Artificial Intelligence** student with a strong passion for **Artificial Intelligence and Full-Stack Development**. I possess a solid foundation in backend technologies, including ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white) and ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white), and have frontend expertise in **React** and **Angular**. My goal is to build seamless and scalable applications. Additionally, I leverage **AI** techniques such as **Machine Learning**, **Prompt Engineering**, and **AI Agents** to develop intelligent solutions that address real-world challenges.
+I am an **Software Engineering and Artificial Intelligence** student with a strong passion for **Artificial Intelligence and Full-Stack Development**. I possess a solid foundation in backend technologies, including **Spring Boot** and **Django**, and have frontend expertise in **React** and **Angular**. My goal is to build seamless and scalable applications. Additionally, I leverage **AI** techniques such as **Machine Learning**, **Prompt Engineering**, and **AI Agents** to develop intelligent solutions that address real-world challenges.
 
 
 🔭 I’m currently working on:
